@@ -5,6 +5,7 @@
     /* align-items: center; */
     justify-content: center;
     column-gap: 105px;
+    padding-bottom: 5rem;
 }
 .hero-container .hero-text{
     display: flex;

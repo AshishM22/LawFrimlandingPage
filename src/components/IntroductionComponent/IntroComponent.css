@@ -1,0 +1,30 @@
+.intro-main-container{
+    padding-top: 8rem;
+    background-color: var(--secondary-color );
+    margin-bottom: 10rem;
+}
+.intro-container-casual-text{
+    opacity: 0.3;
+    width: 475px;
+}
+.intro-container--vertical-divider{
+    width: 1px;
+    height: 206px;
+    background-color: #6A6A6A;;
+}
+.intro-container1{
+    display: flex;
+    justify-content: space-around;
+
+}
+.intro-container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.success-card-group{
+    display: flex;
+    justify-content: center;
+    column-gap: 31px;
+}
