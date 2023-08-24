@@ -1,0 +1,61 @@
+.practice-area-main-container{
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 4rem;
+}
+.practice-area-main-container--text{
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+}
+.practice-area-main-container--images {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3, auto);
+    gap: 10px;
+}
+.relative-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+ 
+.relative-container img {
+    display: block;
+    max-width: 100%;
+}
+.relative-container p{
+    position: absolute;
+    bottom: 10px;
+    left: 30%;
+    transform: translate( 5%,-50%);
+    margin: -20px;
+    padding: 10px;
+    color: #FFFBF2;
+    font-size: 24px;
+    font-weight: 600;
+}
+.practice-area-img-1{
+     grid-column: span 2;
+}
+.practice-area-img-2{
+     grid-column: span 1;
+}
+.practice-area-img-3{
+     grid-column: span 1;
+}
+.practice-area-img-4{
+     grid-column: span 2;
+}
+.practice-area-img-5{
+     grid-column: span 2;
+}
+.practice-area-img-6{
+     grid-column: span 1;
+}
