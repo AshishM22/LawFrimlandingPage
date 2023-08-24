@@ -1,0 +1,35 @@
+.team-card-container{
+    display: flex;
+    gap: 1rem;
+}
+.active{
+    width: 344px;
+    height: 109px;
+    flex-shrink: 0;
+    border-radius: 14px;
+    background: #E3B748;
+    padding: 10px;
+    color: var(--black-color);
+}
+.team-card-container img{
+    width: 68px;
+    height: 68px;
+    flex-shrink: 0;
+    border-radius: 68px;
+}
+.team-member-data {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+.team-member-data--name{
+   font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.team-member-data--cases{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    opacity: 0.3;
+}
