@@ -1,0 +1,33 @@
+.client-main-container{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5rem;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding-bottom: 10rem;
+}
+.client-container1{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 200px;
+    align-items: center;
+}
+.client-container1-heading{
+    color: var(--pure-white, #FFF);
+        font-family: Inter;
+        font-size: 54px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 143.023%;
+        /* 77.232px */
+}
+.client-container1-button button{
+    width: 90.612px;
+    height: 90.612px;
+    border-radius: 50%;
+}
+.client-container2{
+    display: flex;
+    column-gap: 30px;
+}
