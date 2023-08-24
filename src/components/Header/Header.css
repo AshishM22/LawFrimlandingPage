@@ -5,13 +5,6 @@
     font-weight: 600;
     align-items: center;
 }
-nav ul{
-    display: flex;
-    width: 30rem;
-    justify-content: space-between;
-}
-
-li {  list-style-type: none }
 
 .header-container button{
     background-color: var(--black-color);

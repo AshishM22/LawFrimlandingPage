@@ -9,7 +9,7 @@ import "./PracticeArea.css";
 
 const practiceArea = () => {
   return (
-    <div className="practice-area-main-container">
+    <div className="practice-area-main-container" id="practice-area">
       <div className="practice-area-main-container--text">
         Area of Practices
       </div>

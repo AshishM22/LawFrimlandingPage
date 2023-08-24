@@ -24,4 +24,11 @@ code {
   --white-color: #FFF;
   --secondary-color:#1D1D1D;
 }
+a {
+  color: var(--white-color);
+  text-decoration: none;
+}
+button{
+  cursor: pointer;
+}
   

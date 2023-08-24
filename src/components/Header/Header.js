@@ -1,19 +1,13 @@
 import React from "react";
 import LogoImage from "../../assets/Logo.png";
 import "./Header.css";
+import Nav from "../Nav/Nav";
 
 const Header = () => {
   return (
     <header className="header-container">
       <img src={LogoImage} alt="logo" />
-      <nav>
-        <ul>
-          <li>Home</li>
-          <li>Attorneys</li>
-          <li>Practice Areas</li>
-          <li>About Us</li>
-        </ul>
-      </nav>
+      <Nav />
       <button>Contact Now</button>
     </header>
   );

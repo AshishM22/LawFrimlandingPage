@@ -4,7 +4,7 @@ import SuccessCard from "../SuccessCard/SuccessCard";
 
 const IntroComponent = () => {
   return (
-    <div className="intro-main-container">
+    <div className="intro-main-container" id="about-us">
       <div className="intro-container1">
         <div style={{ fontSize: "54px", width: "387px" }}>
           Let’s Introduce Ourself

@@ -10,7 +10,7 @@ import TeamMember6 from "../../assets/TeamMember6.png";
 
 const Team = () => {
   return (
-    <div className="team-main-container">
+    <div className="team-main-container" id="about-us">
       <div className="team-conatiner-heading">Our Team</div>
       <div className="team-conatiner-data">
         <TeamCard image={TeamMember1} name="Danial Def" cases={301} />

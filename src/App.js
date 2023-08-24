@@ -1,6 +1,7 @@
 import "./App.css";
 import ClientReview from "./components/ClientReview/ClientReview";
 import FAQ from "./components/FAQ/FAQ";
+import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import IntroComponent from "./components/IntroductionComponent/IntroComponent";
@@ -19,6 +20,7 @@ function App() {
       <Team />
       <FAQ />
       <NewsLetter />
+      <Footer />
     </div>
   );
 }
