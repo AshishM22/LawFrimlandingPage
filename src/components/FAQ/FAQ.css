@@ -1,0 +1,24 @@
+.faq-main-container{
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-content: space-around
+}
+.faq-text--headline{
+    color: var(--pure-white, #FFF);
+    font-family: Inter;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 138.023%;
+       
+}
+.faq-text--casual{
+    width: 557px;
+    color: var(--pure-white, #FFF);
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 162.523%;
+        opacity: 0.3;
+}

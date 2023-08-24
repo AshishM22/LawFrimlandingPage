@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 10rem;
 }
 .team-conatiner-heading {
     color: var(--pure-white, #FFF);
