@@ -21,7 +21,7 @@
 
 #### FAQ section
 
-![Team and FAQ section](https://github.com/AshishM22/Qtify/assets/99782102/76eac1ef-6da0-4a90-991f-1151089d14c2)
+![Team and FAQ section](https://github.com/AshishM22/Travel-Vista/assets/99782102/0c17d87b-2e7a-428c-bf65-99ade93d07db)
 
 
 #### Footer : 
