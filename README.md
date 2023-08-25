@@ -1,4 +1,4 @@
-# Landing Page for Law Firm
+# Landing Page for Law Firm (Desktop site)
 
 #### In this project, I delved into the realm of front-end development, leveraging React's component-based architecture to build a seamless user interface. Through modular design, I could efficiently structure the landing page, ensuring easy navigation and content organization. This approach not only simplified the development process but also paved the way for future scalability and maintenance.
 
